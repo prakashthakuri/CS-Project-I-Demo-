@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201734245455",
+    "firebase_url": "https://happyhours-36f5f.firebaseio.com",
+    "project_id": "happyhours-36f5f",
+    "storage_bucket": "happyhours-36f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201734245455:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201734245455-64e2qvsco1kofcbcpirgfn659q7514ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "e72a9a6749dc2ebca7cd24a7e5e25f70c460db89"
+          }
+        },
+        {
+          "client_id": "201734245455-sinhu41iulegc5sv6qea24q5c6iu0oct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwe7GZuCtGmXnotWZFDfu5uoluDUlV6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201734245455-sinhu41iulegc5sv6qea24q5c6iu0oct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
