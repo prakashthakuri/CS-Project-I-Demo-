@@ -8,10 +8,10 @@ The requirement of the project for this semester was to build any one required f
 
 
 Team Members: 
-Vikas Idnani 
-Surbhi Golchha  
-Rohan Vasikar 
-Karishma Rao 
-Heli Rawal 
-Zhenhao Liu  
+Vikas Idnani, 
+Surbhi Golchha,  
+Rohan Vasikar, 
+Karishma Rao, 
+Heli Rawal, 
+Zhenhao Liu,  
 Prakash Shahi Thakuri
